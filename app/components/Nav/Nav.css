@@ -1,0 +1,10 @@
+ul {
+  background-color: goldenrod;
+  padding: 0.2rem 0.5rem;
+  display: flex;
+}
+
+li {
+  margin: 0.5rem;
+  list-style: none;
+}
